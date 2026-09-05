@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Oliveira</h1>
-<h3 align="center">Full-Stack Developer from Portugal</h3>
+<h3 align="center">Software Developer from Portugal</h3>
 
 ---
 
